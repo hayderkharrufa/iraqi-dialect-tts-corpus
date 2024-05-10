@@ -1,8 +1,10 @@
 # Resources Folder
 
-This folder contains:
+This folder includes:
 
-1. **Pre-Trained Model:** A baseline model ready for further training or fine-tuning.
-2. **Synthesized Samples:** Speech samples generated with the pre-trained model.
+1. **Pre-Trained Model:** A foundational model you can further refine.
+2. **Synthesized Samples:** Example speech synthesized using the pre-trained model.
 
-An example repository that can assist with training is [this one](https://github.com/nipponjo/tts-arabic-pytorch.git).
+You can see an example training repository here: [TTS Arabic PyTorch](https://github.com/nipponjo/tts-arabic-pytorch.git).
+
+Feel free to contribute by improving the model or adding new data!
