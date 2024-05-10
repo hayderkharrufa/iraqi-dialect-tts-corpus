@@ -1,5 +1,11 @@
 cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the following metadata."
 title: "Training a Text-to-Speech System for Dialectal Arabic with a Focus on the Iraqi Dialect"
+version: "1.0"
+doi: "10.5281/zenodo.11170567"
+url: "https://doi.org/10.5281/zenodo.11170567"
+date-released: "2024-05"
+publisher: "Zenodo"
 authors:
   - family-names: "Kharrufa"
     given-names: "Hayder"
@@ -7,9 +13,3 @@ authors:
     given-names: "Adam"
   - family-names: "Baraq"
     given-names: "Mohammed"
-  - name: "ClearCypher"
-version: 1.0
-date-released: 2024-05
-publisher: "Zenodo"
-doi: "10.5281/zenodo.11170567"
-url: "https://doi.org/10.5281/zenodo.11170567"
