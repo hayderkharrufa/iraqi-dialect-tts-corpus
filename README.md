@@ -6,7 +6,7 @@ This repository hosts the dataset and accompanying resources for the paper title
 
 ## Dataset
 The dataset is stored on Google Drive. You can access it via the following link:
-[Access Dataset](https://drive.google.com/path_to_your_dataset)
+[Access Dataset](https://drive.google.com/file/d/1iQ-ueye2pLFavy-2HWDEOhscD_wn_7ie/view?usp=sharing)
 
 ## Tools for the Iraqi Dialect TTS Corpus
 
