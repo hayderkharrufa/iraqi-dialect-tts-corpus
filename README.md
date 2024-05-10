@@ -9,7 +9,7 @@ The dataset is stored on Google Drive. You can access it via the following link:
 [Access Dataset](https://drive.google.com/path_to_your_dataset)
 
 ## License
-This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share, adapt, and build upon the work for any purpose, as long as appropriate credit is given.
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share, adapt, and build upon the work for any purpose, as long as appropriate credit is given.
 
 For full details, please see the [LICENSE](LICENSE) file.
 
