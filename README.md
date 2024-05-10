@@ -7,13 +7,13 @@ This repository hosts the dataset and accompanying resources for the paper title
 The dataset is stored on Google Drive. You can access it via the following link:
 [Access Dataset](https://drive.google.com/path_to_your_dataset)
 
-## Usage
-To use this dataset in your research or projects, please ensure to cite our paper as described in the Citation section below.
-
 ## License
 This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share, adapt, and build upon the work for any purpose, as long as appropriate credit is given.
 
 For full details, please see the [LICENSE](LICENSE.md) file.
+
+## Usage
+To use this dataset in your research or projects, please ensure to cite our paper as described in the Citation section below.
 
 ## Citation
 If you use this dataset in your research, please cite it using the following Bibtex entry:
