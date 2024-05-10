@@ -1,4 +1,5 @@
 # Iraqi Dialect TTS Corpus
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11170567.svg)](https://doi.org/10.5281/zenodo.11170567)
 
 ## Overview
 This repository hosts the dataset and accompanying resources for the paper titled "Training a Text-to-Speech System for Dialectal Arabic with a Focus on the Iraqi Dialect". The dataset is intended to aid researchers and developers in the field of speech synthesis, specifically focusing on the Iraqi dialect of Arabic.
