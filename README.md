@@ -37,8 +37,7 @@ If you use this dataset in your research, please cite it using the following Bib
 @dataset{kharrufa_2024_11170567,
   author       = {Kharrufa, Hayder and
                   Taha, Adam and
-                  Baraq, Mohammed and
-                  ClearCypher},
+                  Baraq, Mohammed},
   title        = {{Training a Text-to-Speech System for Dialectal 
                    Arabic with a Focus on the Iraqi Dialect}},
   month        = may,
