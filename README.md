@@ -13,9 +13,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 For full details, please see the [LICENSE](LICENSE) file.
 
-## Usage
-To use this dataset in your research or projects, please ensure to cite our paper as described in the Citation section below.
-
 ## Citation
 If you use this dataset in your research, please cite it using the following Bibtex entry:
 
